@@ -7,7 +7,7 @@ export class Header extends Component {
                 <div id="topbar" class="d-none d-lg-flex align-items-center fixed-top">
                 <div class="container d-flex">
                 <div class="contact-info mr-auto">
-                    <i class="icofont-envelope"></i> <a href="mailto:venky@tcs.com">contact@example.com</a>
+                    <i class="icofont-envelope"></i> <a href="mailto:venky@tcs.com">venky@tcs.comm</a>
                     <i class="icofont-phone"></i> +91 9676234546
                     <i class="icofont-google-map"></i> A108 Adam Street, NY
                 </div>
